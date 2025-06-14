@@ -12,7 +12,7 @@ public class Methods {
 //BLOCK OF  REUSABLE CODE THAT IS EXECUTED WHENEVER IT'S CALLED UPON
     public static void main(String[] args) {
         
-        String SURNAME="Mulaudzi";
+        String SURNAME="Mulaudzi ";
       Polite(SURNAME); 
     }
     static void Polite(String SURNAME){
