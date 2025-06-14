@@ -1,2 +1,2 @@
 # SELF-TAUGHT
-here i was teaching myself almkst every single topic that was donbe on first semester 
+here i was teaching myself almost every single topic that was donbe on first semester 
